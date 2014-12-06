@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /img/
+Disallow: /picture_library/
+Disallow: /plesk-stat/
+Disallow: /test/
+Sitemap: http://acupunctureandbeautycentre.com.au/sitemap.xml

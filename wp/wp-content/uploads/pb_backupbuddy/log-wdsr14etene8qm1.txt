@@ -1,0 +1,222 @@
+[Sep 4, 2012 16:24:45 0-error] [] Exhausted all known exec() path possibilities with no success.
+[Sep 5, 2012 16:26:18 0-error] [] Exhausted all known exec() path possibilities with no success.
+[Sep 5, 2012 18:08:07 0-error] [8z479z2704] Exhausted all known exec() path possibilities with no success.
+[Sep 5, 2012 18:12:19 0-error] [8z479z2704] Exhausted all known exec() path possibilities with no success.
+[Sep 5, 2012 18:19:14 0-error] [8z479z2704] Exhausted all known exec() path possibilities with no success.
+[Sep 5, 2012 18:27:43 0-error] [8z479z2704] Exhausted all known exec() path possibilities with no success.
+[Sep 12, 2012 17:05:23 0-error] [] Exhausted all known exec() path possibilities with no success.
+[Sep 12, 2012 17:13:28 0-error] [hfg1pyikhq] Exhausted all known exec() path possibilities with no success.
+[Sep 12, 2012 17:20:51 0-error] [hfg1pyikhq] Exhausted all known exec() path possibilities with no success.
+[Sep 12, 2012 17:39:43 0-error] [hfg1pyikhq] Exhausted all known exec() path possibilities with no success.
+[Sep 12, 2012 17:42:59 0-error] [hfg1pyikhq] Exhausted all known exec() path possibilities with no success.
+[Sep 19, 2012 16:48:22 0-error] [] Exhausted all known exec() path possibilities with no success.
+[Sep 19, 2012 16:51:21 0-error] [vh16jczhok] Exhausted all known exec() path possibilities with no success.
+[Sep 19, 2012 17:23:19 0-error] [vh16jczhok] Exhausted all known exec() path possibilities with no success.
+---
+Fatal PHP error encountered:
+type => 1
+message => Allowed memory size of 268435456 bytes exhausted (tried to allocate 122779758 bytes)
+file => /var/www/vhosts/acupunctureandbeauty.com.au/httpdocs/wp/wp-admin/includes/class-pclzip.php
+line => 2690
+---
+[Sep 26, 2012 17:33:00 0-error] [] Exhausted all known exec() path possibilities with no success.
+[Sep 26, 2012 17:35:51 0-error] [4gz9hi2isj] Exhausted all known exec() path possibilities with no success.
+[Sep 26, 2012 17:57:02 0-error] [4gz9hi2isj] Exhausted all known exec() path possibilities with no success.
+---
+Fatal PHP error encountered:
+type => 1
+message => Allowed memory size of 268435456 bytes exhausted (tried to allocate 122779758 bytes)
+file => /var/www/vhosts/acupunctureandbeauty.com.au/httpdocs/wp/wp-admin/includes/class-pclzip.php
+line => 2690
+---
+[Oct 3, 2012 16:35:25 0-error] [] Exhausted all known exec() path possibilities with no success.
+[Oct 3, 2012 16:46:46 0-error] [fn4tk3qdvb] Exhausted all known exec() path possibilities with no success.
+---
+Fatal PHP error encountered:
+type => 1
+message => Allowed memory size of 268435456 bytes exhausted (tried to allocate 122779758 bytes)
+file => /var/www/vhosts/acupunctureandbeauty.com.au/httpdocs/wp/wp-admin/includes/class-pclzip.php
+line => 2690
+---
+[Oct 11, 2012 01:42:52 0-error] [] Exhausted all known exec() path possibilities with no success.
+[Oct 11, 2012 01:48:58 0-error] [0ngrfeh34c] Exhausted all known exec() path possibilities with no success.
+[Oct 11, 2012 01:50:04 0-error] [0ngrfeh34c] Exhausted all known exec() path possibilities with no success.
+---
+Fatal PHP error encountered:
+type => 1
+message => Allowed memory size of 268435456 bytes exhausted (tried to allocate 122779758 bytes)
+file => /var/www/vhosts/acupunctureandbeauty.com.au/httpdocs/wp/wp-admin/includes/class-pclzip.php
+line => 2690
+---
+[Oct 17, 2012 16:27:48 0-error] [] Exhausted all known exec() path possibilities with no success.
+[Oct 17, 2012 16:49:34 0-error] [60gbshq1ez] Exhausted all known exec() path possibilities with no success.
+---
+Fatal PHP error encountered:
+type => 1
+message => Allowed memory size of 268435456 bytes exhausted (tried to allocate 122779758 bytes)
+file => /var/www/vhosts/acupunctureandbeauty.com.au/httpdocs/wp/wp-admin/includes/class-pclzip.php
+line => 2690
+---
+[Oct 31, 2014 00:26:59 0-error] [pnyvw8eayb] Error retrieving fileoptions file `/home/acupunct/public_html/wp/wp-content/uploads/pb_backupbuddy/fileoptions/send-ircmhz31gzm8.txt`. Err 335353266.
+[Oct 31, 2014 00:30:47 0-error] [pnyvw8eayb] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://acupunctureandbeautycentre.com.au/wp`; body: `A scheduled backup has completed with BackupBuddy v4.1.0.4 on Fri, 31 Oct 14 00:30:47 +0000 for the site http://acupunctureandbeautycentre.com.au/wp.
+
+Details:
+
+Scheduled backup "weekly" completed successfully in 4 minutes.
+`; recipient(s): ``.
+[Oct 31, 2014 00:30:51 0-error] [pnyvw8eayb] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Fri, 31 Oct 14 00:30:51 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Oct 31, 2014 00:30:51 0-error] [remote_send-yghvdiar6owk] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Fri, 31 Oct 14 00:30:51 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Oct 31, 2014 00:30:51 0-error] [pnyvw8eayb] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Fri, 31 Oct 14 00:30:51 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Oct 31, 2014 00:30:51 0-error] [remote_send-yghvdiar6owk] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Fri, 31 Oct 14 00:30:51 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Oct 31, 2014 00:30:51 0-error] [pnyvw8eayb] Failure sending to remote destination. Details: BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.
+[Oct 31, 2014 00:30:51 0-error] [pnyvw8eayb] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Fri, 31 Oct 14 00:30:51 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.`; recipient(s): `robby@dedicated-it.com`.
+[Oct 31, 2014 06:50:23 0-error] [] Error retrieving fileoptions file `/home/acupunct/public_html/wp/wp-content/uploads/pb_backupbuddy/fileoptions/send-ircmhz31gzm8.txt`. Err 335353266.
+[Nov 1, 2014 06:40:44 0-error] [] Error retrieving fileoptions file `/home/acupunct/public_html/wp/wp-content/uploads/pb_backupbuddy/fileoptions/send-ircmhz31gzm8.txt`. Err 335353266.
+[Nov 2, 2014 06:48:54 0-error] [] Error retrieving fileoptions file `/home/acupunct/public_html/wp/wp-content/uploads/pb_backupbuddy/fileoptions/send-ircmhz31gzm8.txt`. Err 335353266.
+[Nov 3, 2014 06:39:57 0-error] [] Error retrieving fileoptions file `/home/acupunct/public_html/wp/wp-content/uploads/pb_backupbuddy/fileoptions/send-ircmhz31gzm8.txt`. Err 335353266.
+[Nov 4, 2014 07:04:14 0-error] [] Error retrieving fileoptions file `/home/acupunct/public_html/wp/wp-content/uploads/pb_backupbuddy/fileoptions/send-ircmhz31gzm8.txt`. Err 335353266.
+[Nov 5, 2014 06:41:09 0-error] [] Error retrieving fileoptions file `/home/acupunct/public_html/wp/wp-content/uploads/pb_backupbuddy/fileoptions/send-ircmhz31gzm8.txt`. Err 335353266.
+[Nov 5, 2014 16:45:57 0-error] [hmfnan2hwh] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://acupunctureandbeautycentre.com.au/wp`; body: `A scheduled backup has completed with BackupBuddy v4.1.0.4 on Wed, 05 Nov 14 16:45:57 +0000 for the site http://acupunctureandbeautycentre.com.au/wp.
+
+Details:
+
+Scheduled backup "weekly" completed successfully in 19 minutes.
+`; recipient(s): ``.
+[Nov 5, 2014 16:45:58 0-error] [hmfnan2hwh] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 05 Nov 14 16:45:58 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 5, 2014 16:45:58 0-error] [remote_send-x9kdrqekn79g] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 05 Nov 14 16:45:58 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 5, 2014 16:45:59 0-error] [hmfnan2hwh] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 05 Nov 14 16:45:59 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Nov 5, 2014 16:45:59 0-error] [remote_send-x9kdrqekn79g] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 05 Nov 14 16:45:59 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Nov 5, 2014 16:45:59 0-error] [hmfnan2hwh] Failure sending to remote destination. Details: BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.
+[Nov 5, 2014 16:45:59 0-error] [hmfnan2hwh] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 05 Nov 14 16:45:59 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 12, 2014 17:49:27 0-error] [d1jcqt2q07] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://acupunctureandbeautycentre.com.au/wp`; body: `A scheduled backup has completed with BackupBuddy v4.1.0.4 on Wed, 12 Nov 14 17:49:27 +0000 for the site http://acupunctureandbeautycentre.com.au/wp.
+
+Details:
+
+Scheduled backup "weekly" completed successfully in 1 hour.
+`; recipient(s): ``.
+[Nov 12, 2014 17:49:30 0-error] [d1jcqt2q07] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 12 Nov 14 17:49:30 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 12, 2014 17:49:30 0-error] [remote_send-mj83atuxzsf6] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 12 Nov 14 17:49:30 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 12, 2014 17:49:30 0-error] [d1jcqt2q07] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 12 Nov 14 17:49:30 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Nov 12, 2014 17:49:30 0-error] [remote_send-mj83atuxzsf6] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 12 Nov 14 17:49:30 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Nov 12, 2014 17:49:31 0-error] [d1jcqt2q07] Failure sending to remote destination. Details: BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.
+[Nov 12, 2014 17:49:31 0-error] [d1jcqt2q07] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 12 Nov 14 17:49:31 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 19, 2014 16:38:36 0-error] [4mzis9cxh3] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://acupunctureandbeautycentre.com.au/wp`; body: `A scheduled backup has completed with BackupBuddy v4.1.0.4 on Wed, 19 Nov 14 16:38:36 +0000 for the site http://acupunctureandbeautycentre.com.au/wp.
+
+Details:
+
+Scheduled backup "weekly" completed successfully in 13 minutes.
+`; recipient(s): ``.
+[Nov 19, 2014 16:38:49 0-error] [4mzis9cxh3] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 19 Nov 14 16:38:49 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 19, 2014 16:38:49 0-error] [remote_send-nu0ra0bvwand] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 19 Nov 14 16:38:49 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 19, 2014 16:38:49 0-error] [4mzis9cxh3] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 19 Nov 14 16:38:49 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Nov 19, 2014 16:38:49 0-error] [remote_send-nu0ra0bvwand] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 19 Nov 14 16:38:49 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Nov 19, 2014 16:38:49 0-error] [4mzis9cxh3] Failure sending to remote destination. Details: BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.
+[Nov 19, 2014 16:38:49 0-error] [4mzis9cxh3] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 19 Nov 14 16:38:49 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 26, 2014 16:52:17 0-error] [hu6ynkh9f5] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://acupunctureandbeautycentre.com.au/wp`; body: `A scheduled backup has completed with BackupBuddy v4.1.0.4 on Wed, 26 Nov 14 16:52:17 +0000 for the site http://acupunctureandbeautycentre.com.au/wp.
+
+Details:
+
+Scheduled backup "weekly" completed successfully in 23 minutes.
+`; recipient(s): ``.
+[Nov 26, 2014 16:57:59 0-error] [hu6ynkh9f5] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 26 Nov 14 16:57:59 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 26, 2014 16:57:59 0-error] [remote_send-1fcykyngogtw] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 26 Nov 14 16:57:59 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Nov 26, 2014 16:57:59 0-error] [hu6ynkh9f5] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 26 Nov 14 16:57:59 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Nov 26, 2014 16:57:59 0-error] [remote_send-1fcykyngogtw] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 26 Nov 14 16:57:59 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Nov 26, 2014 16:57:59 0-error] [hu6ynkh9f5] Failure sending to remote destination. Details: BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.
+[Nov 26, 2014 16:57:59 0-error] [hu6ynkh9f5] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 26 Nov 14 16:57:59 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.`; recipient(s): `robby@dedicated-it.com`.
+[Dec 3, 2014 16:43:23 0-error] [i9a13p7t1y] Sending email schedule notification. Subject: `BackupBuddy Scheduled Backup Complete - http://acupunctureandbeautycentre.com.au/wp`; body: `A scheduled backup has completed with BackupBuddy v4.1.0.4 on Wed, 03 Dec 14 16:43:23 +0000 for the site http://acupunctureandbeautycentre.com.au/wp.
+
+Details:
+
+Scheduled backup "weekly" completed successfully in 18 minutes.
+`; recipient(s): ``.
+[Dec 3, 2014 16:43:27 0-error] [i9a13p7t1y] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 03 Dec 14 16:43:27 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Dec 3, 2014 16:43:27 0-error] [remote_send-h0b04d4b7pmx] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 03 Dec 14 16:43:27 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+ERROR #9011 ( http://ithemes.com/codex/page/BackupBuddy:_Error_Codes#9011 ).  FTP/FTPs login failed on scheduled FTP.`; recipient(s): `robby@dedicated-it.com`.
+[Dec 3, 2014 16:43:27 0-error] [i9a13p7t1y] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 03 Dec 14 16:43:27 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Dec 3, 2014 16:43:27 0-error] [remote_send-h0b04d4b7pmx] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 03 Dec 14 16:43:27 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+There was an error sending to the remote destination. One or more files may have not been fully transferred. Please see error details for additional information. If the error persists, enable full error logging and try again for full details and troubleshooting. Details: 
+
+`; recipient(s): `robby@dedicated-it.com`.
+[Dec 3, 2014 16:43:27 0-error] [i9a13p7t1y] Failure sending to remote destination. Details: BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.
+[Dec 3, 2014 16:43:27 0-error] [i9a13p7t1y] Sending email error notification. Subject: `BackupBuddy Error - http://acupunctureandbeautycentre.com.au/wp`; body: `An error occurred with BackupBuddy v4.1.0.4 on Wed, 03 Dec 14 16:43:27 +0000 for the site http://acupunctureandbeautycentre.com.au/wp. Error details:
+
+BackupBuddy failed sending a backup to the remote destination "ols18.com" (id: 0). Please verify and test destination settings and permissions. Check the error log for further details.`; recipient(s): `robby@dedicated-it.com`.

@@ -1,0 +1,32 @@
+php_value  upload_max_filesize 128M
+php_value  post_max_size 128M
+php_value  memory_limit 128M
+php_value max_execution_time 120
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^acupunctureandbeauty.com.au(.*)$ [OR]
+RewriteCond %{HTTP_HOST} ^www.acupunctureandbeauty.com.au(.*)$
+RewriteRule (.*)$ http://acupunctureandbeautycentre.com.au/$1 [R=301,L]
+
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+RewriteEngine on
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
