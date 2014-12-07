@@ -19,10 +19,10 @@
 define('DB_NAME', 'acupunct_311014');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'acupunct');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'human01');
+define('DB_PASSWORD', 'g5kEs1H79n');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -78,7 +78,7 @@ define('WPLANG', '');
  * It is strongly recommended that plugin and theme developers use WP_DEBUG
  * in their development environments.
  */
-define('WP_DEBUG', true);
+define('WP_DEBUG', false);
 //define('WP_HOME', 'http://acupunctureandbeautycentre.com.au');
 //define('WP_SITEURL', 'http://acupunctureandbeautycentre.com.au');
 
