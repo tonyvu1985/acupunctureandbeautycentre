@@ -18,11 +18,13 @@
 /** The name of the database for WordPress */
 define('DB_NAME', 'acupunct_311014');
 
-/** MySQL database username */
-define('DB_USER', 'acupunct');
+/** MySQL database username 
+acupunct - g5kEs1H79n
+*/
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'g5kEs1H79n');
+define('DB_PASSWORD', 'human01');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
