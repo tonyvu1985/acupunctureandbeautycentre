@@ -5,11 +5,11 @@ get_header(); ?>
 <div class="content_wrapper">
 
 	<div class="homeGride1">
-        <?php query_posts('page_id=47'); ?>
+        <?php query_posts('page_id=6'); ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
             <strong><?php the_title();?></strong>
             <div class="space10 clear"></div>
-            <?php echo get_excerpt(200); ?>
+            <?php echo get_the_excerpt(200); ?>
         <?php endwhile; wp_reset_query(); endif; ?>
     </div><!--homeGride1 -->
     

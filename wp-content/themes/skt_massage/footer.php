@@ -24,7 +24,7 @@
         <?php if( get_option('skt_social_facebook') != '' ) { echo '<a class="fb" target="_blank" href="'.get_option('skt_social_facebook').'">Be a fan on Facebook</a>'; } ?>
         <?php if( get_option('skt_social_twitter') != '' ) { echo '<a class="tw" target="_blank" href="'.get_option('skt_social_twitter').'">Follow us on Twitter</a>'; } ?>
         <?php if( get_option('skt_social_linkedin') != '' ) { echo '<a class="in" target="_blank" href="'.get_option('skt_social_linkedin').'">Connect on Linkedin</a>'; } ?> 
-        <?php if( get_option('skt_social_rss') != '' ) { echo '<a class="rss" target="_blank" href="'.get_option('skt_social_rss').'">RSS Feed</a>'; } ?> 
+        <?php //if( get_option('skt_social_rss') != '' ) { echo '<a class="rss" target="_blank" href="'.get_option('skt_social_rss').'">RSS Feed</a>'; } ?> 
         </div><!--gride2 -->
 
         <div class="gride3">
@@ -38,8 +38,7 @@
 
 <div id="copydesign">
 	<div class="copyDes">
-		<div class="copyright">&copy; <?php echo the_time('Y'); ?> - <span>Massage Center</span> - All Rights Reserved</div>
-        <div class="design"><?php do_action( 'sktmaster_credits' ); ?> Theme by <a href="<?php echo esc_url( __( 'http://sktthemes.net/', 'sktmaster' ) ); ?>" title="<?php esc_attr_e( 'SKT Wordpress Themes', 'sktmaster' ); ?>" target="_blank"><?php printf( __( '%s', 'sktmaster' ), 'SKT Wordpress Themes' ); ?></a></div>    
+		<div class="copyright">&copy; Acupuncture & Beauty Centre 2014 | All Rights Reserved</div>
     </div>
 <div class="clear"></div>
 </div><!--copydesign -->
