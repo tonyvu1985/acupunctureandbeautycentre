@@ -44,6 +44,7 @@ get_header(); ?>
 <div class="border-saprater"></div>
 
 <div class="home_content">
+        <?php query_posts('page_id=2127'); ?>
     <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
     <div class="thumimage"><?php the_post_thumbnail(array(337,337)); ?></div>
     <div class="space45"></div>
