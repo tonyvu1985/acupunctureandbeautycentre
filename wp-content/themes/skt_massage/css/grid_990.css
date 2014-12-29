@@ -62,7 +62,6 @@ text-shadow:-1px -1px 0 #000, 2px -1px 0 #000, -1px 2px 0 #000, 2px 2px 0 #000;}
 .homeGride4{float:left; padding:115px 10px 30px 10px; width:210px; text-align:center; line-height:24px; background:url(../images/Stress-Free-Zone.png) no-repeat 75px 30px; transition:all 0.5s ease 0s;}
 .homeGride4:hover{text-shadow: 0 0 0 #fff; background:url(../images/Stress-Free-Zone-hover.png) no-repeat 75px 30px #669f00; color:#fff; box-shadow:0 5px 16px #000000; transition: all 0.5s ease 0s; }
 
-.content_wrapper strong{font:500 28px/28px 'Ubuntu', sans-serif; letter-spacing:-0.7px;}
 .homeGride1, .homeGride2, .homeGride3, .homeGride4{ font:400 12px/24px 'Open Sans',sans-serif; text-shadow: 0 0 0 #282828;}
 
 .home_content{ margin:0 auto; padding:0; width:980px;}

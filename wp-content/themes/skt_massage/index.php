@@ -1,7 +1,7 @@
 <?php
 /** * Template Name: Home */
 get_header(); ?>
-
+<div style="margin-top:30px"></div>
 <div class="content_wrapper">
 
 	<div class="homeGride1">

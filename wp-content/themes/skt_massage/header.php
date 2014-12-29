@@ -25,6 +25,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="<?php echo ( get_option('skt_favicon') != '' ) ? get_option('skt_favicon') : get_bloginfo('template_url').'/images/favicon.ico';?>">
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
+<link rel="stylesheet" type="text/css" href="http://acupunctureandbeautycentre.com.au/wp-content/themes/skt_massage/css/style.css">
 <?php // Loads HTML5 JavaScript file to add support for HTML5 elements in older IE versions. ?>
 <!--[if lt IE 9]>
 <script src="<?php echo get_template_directory_uri(); ?>/js/html5.js" type="text/javascript"></script>
@@ -107,7 +108,7 @@ if(scrWd<=479){
     <div class="space50"></div>
    <?php } else { ?>
     <div class="nav">
-       <div class="hm"><a href="<?php bloginfo('url');?>"><img src="<?php bloginfo('template_url');?>/images/home-icon.png" alt="" /></a></div>
+       <!--<div class="hm"><a href="<?php //bloginfo('url');?>"><img src="<?php //bloginfo('template_url');?>/images/home-icon.png" alt="" /></a></div>-->
        <?php wp_nav_menu( array('theme_location' => 'primary', 'container' => '', 'menu_class' => '') ); ?>            	
     </div><!--nav --> 
     <div class="header-phone">
