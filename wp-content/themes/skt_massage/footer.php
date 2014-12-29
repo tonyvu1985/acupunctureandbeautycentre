@@ -21,7 +21,7 @@
         <div class="gride2">
         <h5>Follow Us</h5>
         <div class="space15"></div>
-        <?php if( get_option('skt_social_facebook') != '' ) { echo '<a class="fb" target="_blank" href="'.get_option('skt_social_facebook').'">Be a fan on Facebook</a>'; } ?>
+        <?php if( get_option('skt_social_facebook') != '' ) { echo '<a class="fb" target="_blank" href="'.get_option('skt_social_facebook').'">Like Us on Facebook</a>'; } ?>
         <?php if( get_option('skt_social_twitter') != '' ) { echo '<a class="tw" target="_blank" href="'.get_option('skt_social_twitter').'">Follow us on Twitter</a>'; } ?>
         <?php if( get_option('skt_social_linkedin') != '' ) { echo '<a class="in" target="_blank" href="'.get_option('skt_social_linkedin').'">Connect on Linkedin</a>'; } ?> 
         <?php //if( get_option('skt_social_rss') != '' ) { echo '<a class="rss" target="_blank" href="'.get_option('skt_social_rss').'">RSS Feed</a>'; } ?> 
