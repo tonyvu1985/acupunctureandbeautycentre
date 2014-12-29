@@ -5,7 +5,7 @@ get_header(); ?>
 <div class="content_wrapper">
 
 	<div class="homeGride1">
-        <?php query_posts('page_id=6'); ?>
+        <?php query_posts('page_id=2148'); ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
             <strong><?php the_title();?></strong>
             <div class="space10 clear"></div>
@@ -14,7 +14,7 @@ get_header(); ?>
     </div><!--homeGride1 -->
     
     <div class="homeGride2">
-    	 <?php query_posts('page_id=51'); ?>
+    	 <?php query_posts('page_id=2151'); ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
             <strong><?php the_title();?></strong>
             <div class="space10 clear"></div>
@@ -23,7 +23,7 @@ get_header(); ?>
     </div><!--homeGride2 -->
     
     <div class="homeGride3">
-    	 <?php query_posts('page_id=53'); ?>
+    	 <?php query_posts('page_id=2153'); ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
             <strong><?php the_title();?></strong>
             <div class="space10 clear"></div>
@@ -32,7 +32,7 @@ get_header(); ?>
     </div><!--homeGride3 -->
     
     <div class="homeGride4">
-    	 <?php query_posts('page_id=55'); ?>
+    	 <?php query_posts('page_id=2155'); ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
             <strong><?php the_title();?></strong>
             <div class="space10 clear"></div>
@@ -44,14 +44,14 @@ get_header(); ?>
 <div class="border-saprater"></div>
 
 <div class="home_content">
-        <?php query_posts('page_id=2127'); ?>
+        <?php query_posts('page_id=2163'); ?>
     <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
     <div class="thumimage"><?php the_post_thumbnail(array(337,337)); ?></div>
     <div class="space45"></div>
 	    <h2 class="center"><?php the_title(); ?></h2>
     	<div class="space30"></div>
             <div class="welcome-con">
-            <?php the_content(); ?>
+            <?php  echo get_excerpt(200);  ?>
             <a href="<?php echo get_page_link(6); ?>"> <div class="hmreadmore" >More </div></a>
             </div>
 	<?php endwhile; wp_reset_query(); endif; ?>

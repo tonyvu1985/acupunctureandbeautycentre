@@ -1,5 +1,5 @@
-.header_wrapper{ background:#05344d; width:100%; min-width:980px;  height:100px;}
-.header_wrapper .nav{padding-top:25px;}
+body{margin:0}
+.header_wrapper{ background:#05344d; width:100%; min-width:980px;  height:55px;}
 .header{ margin:0 auto; width:1420px; position:relative;}
 .logo {float:left; width:250px; height:55px; position:relative; z-index:999;}
 
