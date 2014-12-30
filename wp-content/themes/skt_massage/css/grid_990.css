@@ -109,7 +109,7 @@ text-shadow:-1px -1px 0 #000, 2px -1px 0 #000, -1px 2px 0 #000, 2px 2px 0 #000;}
 
 /*========================	Footer Start ====================================*/
 #footer_wrapper{width:100%; min-width:980px; margin:0 auto; padding:25px 0 10px 0; background:url(../images/footer_wrapper.jpg) repeat left top;  border-top:5px solid #05344d;}
-.footer{ width:980px; margin:0 auto; padding:0;}
+.footer{ width:1130px; margin:0 auto; padding:0;}
 .footer .gride1{ margin:0; padding:0 20px 0 0; float:left; width:480px; background:url(../images/foore_gride_saprater.png) no-repeat top right; }
 .footer .gride1 p{font:400 13px/20px 'Open Sans', sans-serif; color:#fff; text-shadow: 0 0 0 #fff; margin:0 0 10px 0;}
 
@@ -120,7 +120,7 @@ text-shadow:-1px -1px 0 #000, 2px -1px 0 #000, -1px 2px 0 #000, 2px 2px 0 #000;}
 .rss { background: url(../images/rss.png) no-repeat scroll 0 0 ; clear: both; float: left; margin:5px 0 0 0; padding:7px 0 7px 45px; color:#fff;}
 .fb:hover, .tw:hover, .in:hover, .rss:hover, a:hover{color:#05344d; text-decoration:none;  text-shadow: 0 0 0 #05344d;}
 
-.footer .gride3{ margin:0; padding:0; float:left; width:200px; font:12px 'Open Sans', sans-serif; color:#fff; text-shadow: 0 0 0 #fff; }
+.footer .gride3{ margin:0; padding:0; float:left; font:12px 'Open Sans', sans-serif; color:#fff; text-shadow: 0 0 0 #fff; }
 .footer .gride3 span{ display:block; color: #05344d; font:400 15px/15px 'Open Sans', sans-serif; text-shadow: 0 0 0 #05344d;}
 
 #copydesign{ width:100%; min-width:980px;  margin:0 auto; padding:10px 0; background:#05344d; color:#fff; font-size:12px;}

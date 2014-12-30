@@ -71,16 +71,13 @@ get_header(); ?>
 	<div class="most_popular">
     <h4>Most Popular</h4>
 	<div class="borderh4"></div>
-			<?php //$args = array('post_type' => 'services', 'posts_per_page' =>1);
-			//$loop = new WP_Query( $args );
-			//while ( $loop->have_posts() ) : $loop->the_post(); ?>
-     <?php query_posts('post_id=2073'); ?>
-    <?php if (have_posts()) : ; ?>
+     <?php query_posts('page_id=12'); ?>
+    <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
             <?php echo get_excerpt(100); ?>
             <div class="clear space10"></div>
             <div class="view-menu"><a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title(); ?>">View Menu</a></div>
-            <?php echo wp_reset_query(); endif; ?>
+            <?php endwhile; wp_reset_query(); endif; ?>
     </div><!--most_popular -->
 
 
