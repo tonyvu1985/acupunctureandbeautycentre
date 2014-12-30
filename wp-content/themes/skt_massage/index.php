@@ -85,8 +85,8 @@ get_header(); ?>
 
 
 			    <?php 
-			$popular_posts = array(112,1456,145);
-			$args = array('post_type' => 'page', 'post__in' => $popular_posts);
+			$popular_posts = array(112,145,1456);
+			$args = array('post_type' => 'page', 'post__in' => $popular_posts, 'orderby' => 'post__in');
 			$loop = new WP_Query( $args );
 			while ( $loop->have_posts() ) : $loop->the_post(); ?>
 			 <div class="popular_gride">
