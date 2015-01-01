@@ -110,7 +110,7 @@
 */
 #copydesign{ width:100%; margin:0; padding:10px 0; background:#05344d; color:#fff; font-size:12px;}
 .copyDes{ width:470px; margin:0 auto; padding:0;}
-.copyright{text-align:center; width:470px; margin:0 auto; padding:0;}
+.copyright{text-align:center; margin:0 auto; padding:0;}
 .copyright span{ color:#00acff; text-shadow:0 0 0 #00acff;}
 .design{text-align:center; width:470px; margin:0 auto; padding:0;}
 .design a{color:#00ACFF;}

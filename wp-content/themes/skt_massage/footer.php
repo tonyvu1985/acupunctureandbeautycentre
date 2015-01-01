@@ -38,7 +38,7 @@
 
 <div id="copydesign">
 	<div class="copyDes">
-		<div class="copyright">&copy; Acupuncture & Beauty Centre 2014 | All Rights Reserved</div>
+		<div class="copyright">&copy; Acupuncture & Beauty Centre 2014 | All Rights Reserved | <a href="http://www.pearlpureness.com.au/">pearlpureness.com.au</a></div>
     </div>
 <div class="clear"></div>
 </div><!--copydesign -->

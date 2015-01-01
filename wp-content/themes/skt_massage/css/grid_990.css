@@ -124,8 +124,8 @@ text-shadow:-1px -1px 0 #000, 2px -1px 0 #000, -1px 2px 0 #000, 2px 2px 0 #000;}
 .footer .gride3 span{ display:block; color: #05344d; font:400 15px/15px 'Open Sans', sans-serif; text-shadow: 0 0 0 #05344d;}
 
 #copydesign{ width:100%; min-width:980px;  margin:0 auto; padding:10px 0; background:#05344d; color:#fff; font-size:12px;}
-.copyDes{ width:980px; margin:0 auto; padding:0;}
-.copyright{ float:left; text-align:left; width:400px; margin:0; padding:0;}
+.copyDes{ width:1130px; margin:0 auto; padding:0;}
+.copyright{ float:left; text-align:left; margin:0; padding:0;}
 .copyright span{ color:#00acff; text-shadow:0 0 0 #00acff;}
 .design{ float:right; text-align:right; width:400px; margin:0; padding:0;}
 .design a{color:#00ACFF;}
@@ -179,6 +179,6 @@ p:first-child{ margin-top:0 !important; margin-bottom:15px;}
 .widget-area ul li a{ padding:0 0 0 20px; text-decoration:none; color:#535353; background:url(../images/sidebar_li_a_hover.png) no-repeat 0 5px;  transition: all 0.5s ease 0s; }
 .widget-area ul li a:hover, li.current_page_item a{ color:#669f00; background-position:0 -10px; transition:all 0.5s ease 0s;}
 
-.header-phone{background:url(../images/header-phone-bg.png) no-repeat left top; height:55px; float:right; padding:0 10px 0 20px; line-height:55px;}
-.header-phone span{ background:url(../images/header-phone-icon.png) no-repeat left top; padding:5px 0 10px 20px; font:600 20px/35px 'Ubuntu'; color:#fff; margin:0; }
+.header-phone{background: #fff /*url(../images/header-phone-bg.png) no-repeat left top*/; height:55px; float:right; padding:0 10px 0 20px; line-height:55px;}
+.header-phone span{ background:url(../images/header-phone-icon.png) no-repeat left top; padding:5px 0 10px 20px; font:600 20px/35px 'Ubuntu'; color:#000; margin:0; }
 /*.inner_pages{ padding-top:65px !important;}*/

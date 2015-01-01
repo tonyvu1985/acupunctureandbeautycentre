@@ -117,7 +117,7 @@ text-shadow:-1px -1px 0 #000, 2px -1px 0 #000, -1px 2px 0 #000, 2px 2px 0 #000;}
 */
 #copydesign{ width:100%; padding:10px 0; background:#05344d; color:#fff; font-size:12px;}
 .copyDes{width:720px; margin:0 auto; padding:0;}
-.copyright{float:left; text-align:left; width:300px; margin:0 0 0 10px; padding:0;}
+.copyright{float:left; text-align:left; margin:0 0 0 10px; padding:0;}
 .copyright span{ color:#00acff; text-shadow:0 0 0 #00acff;}
 .design{ float:right; text-align:right; width:300px; margin:0 10px 0 0; padding:0;}
 .design a{color:#00ACFF;}

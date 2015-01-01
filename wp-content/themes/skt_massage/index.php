@@ -34,6 +34,7 @@ get_header(); ?>
     <div class="homeGride4">
     	 <?php query_posts('page_id=2155'); ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+		<!-- tonyvu -->
             <strong><?php the_title();?></strong>
             <div class="space10 clear"></div>
             <?php echo get_excerpt(200); ?>
