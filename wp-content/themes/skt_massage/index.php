@@ -51,7 +51,7 @@ get_header(); ?>
 	    <h2 class="center"><?php the_title(); ?></h2>
     	<div class="space30"></div>
             <div class="welcome-con">
-            <?php  echo get_excerpt(200);  ?>
+            <?php  echo get_excerpt(250);  ?>
             <a href="<?php echo get_page_link(6); ?>"> <div class="hmreadmore" >More </div></a>
             </div>
 	<?php endwhile; wp_reset_query(); endif; ?>
@@ -110,7 +110,7 @@ get_header(); ?>
         <div class="date"><span><?php echo the_time('d'); ?></span>/<?php echo the_time('m'); ?></div>
 	    <h6><?php the_title(); ?></h6>
         <div class="space10"></div>
-        <?php echo get_excerpt(125); ?>
+        <?php echo get_excerpt(150); ?>
         <div class="view-menu"><a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title(); ?>">Read More</a></div>
         </div>
         <?php endwhile; else : endif; ?>
