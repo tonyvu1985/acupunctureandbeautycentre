@@ -83,7 +83,7 @@ text-shadow:-1px -1px 0 #000, 2px -1px 0 #000, -1px 2px 0 #000, 2px 2px 0 #000;}
 .popularService{border:solid 15px #dededb; width:185px; height:185px; border-radius:185px;  transition: all 0.5s ease 0s;}
 .popularService:hover{border:solid 15px #558C20; cursor:pointer; transition: all 0.5s ease 0s;}
 .popularService img{border-radius:185px;}
-.popureadmore{width:84px; margin:-35px auto 0 auto; padding:10px 5px; border-radius:5px; background:#558c20; font:300 16px/16px 'Open Sans', sans-serif; text-align:center; color:#fff; transition: all 0.5s ease 0s; border:solid 2px #fff; position:relative; z-index:9999; text-shadow: 0 0 0 #FFFFFF;}
+.popureadmore{width:100px; margin:-35px auto 0 auto; padding:10px 5px; border-radius:5px; background:#558c20; font:300 16px/16px 'Open Sans', sans-serif; text-align:center; color:#fff; transition: all 0.5s ease 0s; border:solid 2px #fff; position:relative; z-index:9999; text-shadow: 0 0 0 #FFFFFF;}
 .popureadmore:hover{background:#05344d; color:#fff; transition: all 0.5s ease 0s; }
 .view-menu{ margin-top:10px;}
 .view-menu a{ color:#05344d; padding:0 25px 0 0; font:700 13px/13px 'Open Sans', sans-serif; background:url(../images/viewmenu.png) no-repeat top right;  }

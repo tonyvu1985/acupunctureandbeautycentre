@@ -93,7 +93,7 @@ get_header(); ?>
             else { ?>
             <img src="<?php bloginfo('template_url');?>/images/popularservice.jpg" width="185" height="185" style="border:none;" />
             <?php } ?>       	 </div></a>
-            <a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title(); ?>"> <div class="popureadmore"> More </div></a>
+            <a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title(); ?>"> <div class="popureadmore">Learn More</div></a>
             </div><!--popular_gride --> 
 			<?php endwhile; echo wp_reset_query();  ?>	   
 </div><!--most_popular_services -->
