@@ -1,0 +1,62 @@
+/* 
+Theme Name: Massage Center
+Theme URI: http://www.sktthemes.com/
+Author: The SKT Team
+Author URI: http://www.sktthemes.com/
+Description: The Massage Center theme for WordPress by SKT Themes Team.
+Version: 1.0
+Tags: Massage Center
+Text Domain: sktthemes
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500,300italic);
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
+@import url(http://fonts.googleapis.com/css?family=Leckerli+One);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600italic,600,400italic,300italic,300);
+@import url(http://fonts.googleapis.com/css?family=Leckerli+One);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic);
+/*  font-family: 'Tangerine', cursive;  font-family: 'Oswald', sans-serif; font-family: 'Open Sans', sans-serif;
+font-family: 'Ubuntu', sans-serif;           font-family: 'Leckerli One', cursive;
+*/
+.copyright a:hover{color:#fff}
+body{background:url(images/body_bg.jpg) repeat top left; font:300 12px/24px 'Open Sans', sans-serif; color:#282828; text-shadow: 0 0 0 #282828; }
+*{ margin:0; padding:0;}
+img{border:0; padding:0; margin:0;}
+.justify{text-align:justify;}
+.bold{font-weight:bold;}
+.center{text-align:center;}
+.right{text-align:right; float:right;}
+.left{text-align:left; float:left;}
+.clear{clear:both;}
+a{outline:none; text-decoration:none;}
+a{ color: #00acff; text-decoration: none;}
+a:hover { color:#fff; text-decoration:none;}
+
+h1{font:400 45px/45px 'Leckerli One', cursive; color:#fff; text-shadow:0 0 0 #fff;}
+h2{font:400 39px/29px  'Leckerli One', cursive; color:#558c20; }
+h3{ padding:0; margin:0 0 10px 0; font:700 36px/36px 'Open Sans', sans-serif; color:#fff;}
+h4{font:400 30px/30px  'Leckerli One', cursive; color:#558c20;}
+h5{padding:0; margin:0; font:600 19px/19px 'Open Sans', sans-serif; color:#fff;}
+h6{ padding:0; margin:0; font:600 14px/14px 'Open Sans', sans-serif; color:#3e3e3e; }
+h1, h2, h3, h4, h6{line-height:100%;}
+
+p{margin:5px 0 15px; font:300 12px/29px 'Arial', Helvetica, sans-serif;} 
+.space5{ height:5px;} .space10{ height:10px;} .space15{ height:15px;} .space18{ height:18px;} .space20{ height:20px;} .space25{ height:25px;} .space30{ height:30px;} 
+.space35{ height:35px;} .space40{ height:40px;} .space45{ height:45px;} .space50{ height:50px;} .space60{ height:60px;} .space70{ height:70px;} .space80{ height:80px;}
+.space90{ height:90px;} .space100{ height:100px;} 
+.border-saprater{ border-bottom:solid 1px #e0dad5; width:100%; margin:40px 0 25px 0;}
+.borderh4{ border-bottom:solid 1px #e0dad5; width:100%; margin:10px 0;}
+#main{ width:100%; position:relative; overflow:hidden;}
+.displa{display:none;}
+.breadcrumbs a{color:#669f00;}
+.breadcrumbs a:hover{color:#05344d;}
+.title_border{background:url("images/border.png") repeat-x scroll left bottom; height:2px; margin:20px 0;}
+.widget { margin-bottom:40px;}
+.comment-respond h3{ color:#555;}
+.textwidget img{ margin:0 auto; text-align:center;}
+.fb, .tw, .in, .rss{text-shadow: 0 0 0 #fff;}
+
+/*=================== 404 % Search page ==========================*/
+.searchform input[type="text"]{ background:#FBFBFB; border:1px solid #ddd; color:#575757; font-family: Arial,Helvetica,sans-serif; font-size: 13px; height: 26px; margin:0; padding:2px 5px; width:200px;}
+.searchform input[type="submit"]{cursor: pointer; margin:0 0 30px; padding:5px 10px; background-color:#E6E6E6; background-image: -moz-linear-gradient(center top , #F4F4F4, #E6E6E6); border: 1px solid #D2D2D2; border-radius:3px; box-shadow: 0 1px 2px rgba(64, 64, 64, 0.1); color: #424243; font-size: 0.785714rem;  font-weight: normal;   }
+
