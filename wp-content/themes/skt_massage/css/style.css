@@ -19,6 +19,8 @@ Text Domain: sktthemes
 font-family: 'Ubuntu', sans-serif;           font-family: 'Leckerli One', cursive;
 */
 .copyright a:hover{color:#fff}
+.homeGrid1-link{color:#282828}
+.homeGrid1-link:hover p{color:#fff}
 body{background:url(images/body_bg.jpg) repeat top left; font:300 12px/24px 'Open Sans', sans-serif; color:#282828; text-shadow: 0 0 0 #282828; }
 *{ margin:0; padding:0;}
 img{border:0; padding:0; margin:0;}

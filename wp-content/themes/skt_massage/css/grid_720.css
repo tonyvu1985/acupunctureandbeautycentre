@@ -28,8 +28,7 @@
 
 
 .cycloneslider-template-responsive .cycloneslider-caption{ border-radius:0 15px 0 15px; min-height:185px; width:315px; padding:25px 10px !important; right:0; left:340px; margin:0 auto;  text-align:left; bottom:20px; background:url(../images/caption.png) no-repeat;}
-.cycloneslider-template-responsive .cycloneslider-caption-title{color:#00acff !important; font:400 29px/36px 'Leckerli One', cursive !important;  margin-bottom:5px; padding:0;
-text-shadow:-1px -1px 0 #000, 2px -1px 0 #000, -1px 2px 0 #000, 2px 2px 0 #000;}
+.cycloneslider-template-responsive .cycloneslider-caption-title{margin-bottom:5px; padding:0;}
 .cycloneslider-caption-title, .cycloneslider-caption-description{ color:#fff !important; font:300 16px/28px "Open Sans" !important ; text-shadow: 0 0 1px #fff;}
 .cycloneslider-template-responsive .cycloneslider-caption-description{ padding:0; }
 .cycloneslider-template-responsive .cycloneslider-pager{right:195px !important; top:235px !important; background:#05344d; padding:5px 5px 5px 20px; border-radius:5px 0 0 5px;}

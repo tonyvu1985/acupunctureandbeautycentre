@@ -4,42 +4,46 @@ get_header(); ?>
 <div style="margin-top:30px"></div>
 <div class="content_wrapper">
 
-	<div class="homeGride1">
         <?php query_posts('page_id=2148'); ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+		<a class="homeGrid1-link" href="http://acupunctureandbeautycentre.com.au/acupuncture/anxiety-depression" >
+		<div class="homeGride1">
             <strong><?php the_title();?></strong>
             <div class="space10 clear"></div>
-            <?php echo get_the_excerpt(200); ?>
+            <?php echo the_excerpt(); ?>
+	    </div><!--homeGride1 --></a>
         <?php endwhile; wp_reset_query(); endif; ?>
-    </div><!--homeGride1 -->
     
-    <div class="homeGride2">
     	 <?php query_posts('page_id=2151'); ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+		<a class="homeGrid1-link" href="http://acupunctureandbeautycentre.com.au/acupuncture/treatment-of-digestive-disorders" >
+	    <div class="homeGride2">
             <strong><?php the_title();?></strong>
             <div class="space10 clear"></div>
-            <?php echo get_excerpt(200); ?>
+            <?php echo the_excerpt(); ?>
+	    </div><!--homeGride2 --></a>
         <?php endwhile; wp_reset_query(); endif; ?>
-    </div><!--homeGride2 -->
     
-    <div class="homeGride3">
     	 <?php query_posts('page_id=2153'); ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+		<a class="homeGrid1-link" href="http://acupunctureandbeautycentre.com.au/acupuncture/cosmetic-acupuncture">
+	    <div class="homeGride3">
             <strong><?php the_title();?></strong>
             <div class="space10 clear"></div>
-            <?php echo get_excerpt(200); ?>
+            <?php echo the_excerpt(); ?>
+	    </div><!--homeGride3 --></a>
         <?php endwhile; wp_reset_query(); endif; ?>
-    </div><!--homeGride3 -->
     
-    <div class="homeGride4">
     	 <?php query_posts('page_id=2155'); ?>
             <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+		<a class="homeGrid1-link" href="http://acupunctureandbeautycentre.com.au/acupuncture/acupuncture-weightloss-treatment" >
+	    <div class="homeGride4">
 		<!-- tonyvu -->
             <strong><?php the_title();?></strong>
             <div class="space10 clear"></div>
-            <?php echo get_excerpt(200); ?>
+            <?php echo the_excerpt(); ?>
+	    </div><!--homeGride4 --></a>
         <?php endwhile; wp_reset_query(); endif; ?>
-    </div><!--homeGride4 -->
 
 <div class="clear"></div>   
 <div class="border-saprater"></div>
@@ -52,8 +56,8 @@ get_header(); ?>
 	    <h2 class="center"><?php the_title(); ?></h2>
     	<div class="space30"></div>
             <div class="welcome-con">
-            <?php  echo get_excerpt(250);  ?>
-            <a href="<?php echo get_page_link(6); ?>"> <div class="hmreadmore" >More </div></a>
+            <?php  echo get_excerpt(300);  ?>
+            <a href="<?php echo the_permalink(); ?>"> <div class="hmreadmore" >More </div></a>
             </div>
 	<?php endwhile; wp_reset_query(); endif; ?>
 <div class="clear"></div>
@@ -75,7 +79,7 @@ get_header(); ?>
      <?php query_posts('page_id=12'); ?>
     <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
-            <?php echo get_excerpt(100); ?>
+            <?php echo the_excerpt(); ?>
             <div class="clear space10"></div>
             <div class="view-menu"><a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title(); ?>">View Menu</a></div>
             <?php endwhile; wp_reset_query(); endif; ?>
@@ -118,6 +122,13 @@ get_header(); ?>
         <?php wp_reset_query(); ?>
 </div><!--latest_post -->
 
+<div class="clear"></div>   
+<div class="border-saprater"></div>
+
+<div class="home_content">
+	    <a href="http://www.pearlpureness.com.au/"><h3><img style="float:left;" src="http://acupunctureandbeautycentre.com.au/wp-content/uploads/2015/01/pearlpureness-logo.png" alt="pearlpureness"/><span style="margin-top:30px; margin-left:20px; color:#558c20; float:left">WELCOME TO PEARLPURENESS</span></h3></a>
+<div class="clear"></div>
+</div><!--home_content -->
 <div class="clear"></div>
 
 <?php get_footer(); ?>
