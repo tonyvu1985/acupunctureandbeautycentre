@@ -130,7 +130,7 @@ get_header(); ?>
 		<a href="http://www.pearlpureness.com.au/"><img style="float:left;" src="http://acupunctureandbeautycentre.com.au/wp-content/uploads/2015/01/pearlpureness-logo.png" alt="pearlpureness"/></a>
 	</div>
 	<div style="float:left; width:600px; margin-left:45px;">
-	    <a href="http://www.pearlpureness.com.au/"><h3 style="color:#558c20;">WELCOME TO PEARLPURENESS</h3></a>
+	    <a href="http://www.pearlpureness.com.au/"><!--<h3 style="color:#558c20;">WELCOME TO PEARLPURENESS</h3>--></a>
 		<p>Pearl Pureness is the skincare range designed by Eli. It has an organic Australian skincare range and cosmeceutical range which are natural and contain no harsh chemicals or parabens.</p>
 	</div>
 <div class="clear"></div>

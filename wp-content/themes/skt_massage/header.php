@@ -86,9 +86,9 @@ if(scrWd<=479){
 
       <?php if ( is_front_page()|| is_home() ){ ?> 
         <div class="nav">
-          <!-- <div class="hm active">
-             <a href="<?php //bloginfo('url');?>"><img src="<?php //bloginfo('template_url');?>/images/home-icon.png" alt="" /></a>
-           </div>-->
+          <div class="hm active">
+             <a href="<?php bloginfo('url');?>"><img src="<?php bloginfo('template_url');?>/images/home-icon.png" alt="" /></a>
+           </div>
             <?php wp_nav_menu( array('theme_location' => 'primary', 'container' => '', 'menu_class' => '') ); ?>            	
         </div><!--nav -->
         <div class="header-phone">
